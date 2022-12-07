@@ -15,3 +15,6 @@ Imports:
     Rcpp
 URL: https://github.com/diminutive/hackspatialcpp
 BugReports: https://github.com/diminutive/hackspatialcpp/issues
+Depends: 
+    R (>= 2.10)
+LazyData: true
